@@ -3,4 +3,9 @@
     <string name="Financiar">FINANCIAR</string>
     <string name="numero">$7.963.420</string>
     <string name="Fecha">Mar. 15 - 22, 2018</string>
+    <string name="Ingresos">Ingresos</string>
+    <string name="Porcentaje">+13%</string>
+    <string name="SaldoIngresos">$1.173.000</string>
+    <string name="Porcentaje2">-37%</string>
+    <string name="Gastos">Gastos</string>
 </resources>
